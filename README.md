@@ -118,4 +118,4 @@ Some key insights from the dataset:
 👤 **Shatadru Bhattacharyya**  
 💼 [LinkedIn](https://www.linkedin.com/in/shatadru-bhattacharyya-81428816/)  
 📧 shatadru.b@gmail.com  
-🌐 [Portfolio](https://your-username.github.io)  
+🌐 [Portfolio](https://github.com/shatadru-b)  
