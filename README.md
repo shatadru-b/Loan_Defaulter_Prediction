@@ -38,19 +38,6 @@ The goal is to **identify high-risk borrowers** using machine learning models, h
 
 ---
 
- 📂 Project Structure  
-
-```
-├── data/                # Dataset (HMEQ.csv)
-├── notebooks/           # Jupyter notebooks for EDA & modeling
-├── src/                 # Python scripts for preprocessing & models
-├── results/             # Plots, metrics, and model outputs
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
-```
-
----
-
  📊 Exploratory Data Analysis (EDA)  
 
 Some key insights from the dataset:  
