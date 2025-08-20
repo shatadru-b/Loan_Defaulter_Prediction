@@ -115,7 +115,7 @@ Some key insights from the dataset:
 
  📬 Contact  
 
-👤 **Your Name**  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 your.email@example.com  
+👤 **Shatadru Bhattacharyya**  
+💼 [LinkedIn](https://www.linkedin.com/in/shatadru-bhattacharyya-81428816/)  
+📧 shatadru.b@gmail.com  
 🌐 [Portfolio](https://your-username.github.io)  
