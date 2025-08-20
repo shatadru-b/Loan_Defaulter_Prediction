@@ -69,17 +69,7 @@ Some key insights from the dataset:
 | Decision Tree          | 85%      | 0.78    |
 | Random Forest          | **88%**  | **0.81** |
 
-👉 Random Forest performed the best overall.  
-
----
-
- 📈 Visuals  
-
-# Feature Importance (Random Forest)  
-![Feature Importance](results/feature_importance.png)  
-
-# ROC Curve  
-![ROC Curve](results/roc_curve.png)  
+👉 Random Forest performed the best overall.   
 
 ---
 
